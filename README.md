@@ -23,4 +23,4 @@ The Prince of Code Quiz App offers a variety of static multiple-choice questions
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/prince-of-code-quiz.git
+   git clone https://github.com/Prince-Ampomah/prince_of_code_quiz.git
